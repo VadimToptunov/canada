@@ -1,0 +1,71 @@
+body {
+    background-color:#282b29;
+    }
+
+
+p {
+    color: red;
+    font-family: Verdana;
+    font-size:'16px';
+}
+
+.flag {
+     display: block;
+     position: fixed;
+     height: 100%;
+     width: 100%;
+     background: url(../static/flag.png);
+     }
+
+.searchForm{
+          position: fixed;
+          left: 50%;
+          top: 50%;
+          width: 100%;
+          margin-left: -25%;
+          position: fixed;
+          margin-top: -25%;
+      }
+.noc,
+.province{
+     position: fixed;
+     height: 49px;
+     top: 352px;
+     font-family: Roboto;
+     font-style: normal;
+     font-weight: normal;
+     font-size: 14px;
+     line-height: 16px;
+     display: flex;
+     align-items: center;
+     letter-spacing: 0.1em;
+}
+
+.noc {
+     width: 850px;
+     left: 52px;
+     }
+
+.province{
+     width: 230px;
+     left: 910px;
+     }
+
+.searchButton{
+    position: fixed;
+    display:block;
+    width: 53px;
+    height: 49px;
+    border-radius: 50%;
+    left: 1150px;
+    top: 352px;
+     }
+
+.footer{
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      text-align: center;
+    }
+}
