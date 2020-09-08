@@ -1,8 +1,8 @@
+//TODO: Re-implement styles for dropdowns and fields.
+
 body {
     background-color:#282b29;
     }
-
-
 p {
     color: red;
     font-family: Verdana;
@@ -20,14 +20,22 @@ p {
 .searchForm{
           position: fixed;
           left: 50%;
-          top: 50%;
+          top: 352px;
           width: 100%;
           margin-left: -25%;
-          position: fixed;
           margin-top: -25%;
       }
-.noc,
-.province{
+
+#nocInput {
+    width: 450px;
+}
+
+#provinceInput{
+    width: 200px;
+}
+
+.dropdownNoc,
+.dropdownProvince{
      position: fixed;
      height: 49px;
      top: 352px;
@@ -41,12 +49,12 @@ p {
      letter-spacing: 0.1em;
 }
 
-.noc {
-     width: 850px;
+.dropdownNoc {
+     width: 900px;
      left: 52px;
      }
 
-.province{
+.dropdownProvince{
      width: 230px;
      left: 910px;
      }
