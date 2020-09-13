@@ -1,27 +1,30 @@
 <!DOCTYPE HTML>
 <html>
 <head>
+    <title>Find job in Canada</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <link rel="stylesheet" href="../style/styles.css">
     <link rel="stylesheet" href="../style/jquery.flexdatalist.min.css">
-
 </head>
 <body>
 <div class="mainPage">
     <img src="../static/flag.png" alt="Canadian_Flag" class="flag" height="300" width="200">
-    <form action="" id="searchFormId">
+    <form action="/" method="get" id="searchFormId">
+        <div class="occupationCode">
             <input type="text"
-                   id="nocInput"
-                   placeholder="Insert Your NOC(s)"
-                   data-min-length='1'
-                   data-value-property=''
-                   multiple='multiple'
-                   list="nocsList">
+                  id="nocInput"
+                  placeholder="Insert Your NOC(s)"
+                  data-min-length='1'
+                  data-value-property=''
+                  multiple='multiple'
+                  list="nocsList">
             <datalist id="nocsList">
                 <option value="0011">Legislators</option>
                 <option value="0012">Senior government managers and officials</option>
                 <option value="0013">Senior managers - financial, communications and other business services</option>
                 <option value="0014">Senior managers - health, education, social and community services and
-                    membership organizations</option>
+                    membership organizations
+                </option>
                 <option value="0015">Senior managers - trade, broadcasting and other services, n.e.c.</option>
                 <option value="0016">Senior managers - construction, transportation, production and utilities</option>
                 <option value="0111">Financial managers</option>
@@ -39,11 +42,14 @@
                 <option value="0213">Computer and information systems managers</option>
                 <option value="0311">Managers in health care</option>
                 <option value="0411">Government managers - health and social policy development and program
-                    administration</option>
+                    administration
+                </option>
                 <option value="0412">Government managers - economic analysis, policy development and program
-                    administration</option>
+                    administration
+                </option>
                 <option value="0413">Government managers - education policy development and program
-                    administration</option>
+                    administration
+                </option>
                 <option value="0414">Other managers in public administration</option>
                 <option value="0421">Administrators - post-secondary education and vocational training</option>
                 <option value="0422">School principals and administrators of elementary and secondary education
@@ -174,7 +180,8 @@
                 <option value="2242">Electronic service technicians (household and business equipment)</option>
                 <option value="2243">Industrial instrument technicians and mechanics</option>
                 <option value="2244">Aircraft instrument, electrical and avionics mechanics, technicians and
-                    inspectors</option>
+                    inspectors
+                </option>
                 <option value="2251">Architectural technologists and technicians</option>
                 <option value="2252">Industrial designers</option>
                 <option value="2253">Drafting technologists and technicians</option>
@@ -217,7 +224,8 @@
                 <option value="3215">Medical radiation technologists</option>
                 <option value="3216">Medical sonographers</option>
                 <option value="3217">Cardiology technologists and electrophysiological diagnostic technologists,
-                    n.e.c.</option>
+                    n.e.c.
+                </option>
                 <option value="3219">Other medical technologists and technicians (except dental health)</option>
                 <option value="3221">Denturists</option>
                 <option value="3222">Dental hygienists and dental therapists</option>
@@ -253,7 +261,8 @@
                 <option value="4165">Health policy researchers, consultants and program officers</option>
                 <option value="4166">Education policy researchers, consultants and program officers</option>
                 <option value="4167">Recreation, sports and fitness policy researchers, consultants and program
-                    officers</option>
+                    officers
+                </option>
                 <option value="4168">Program officers unique to government</option>
                 <option value="4169">Other professional occupations in social science, n.e.c.</option>
                 <option value="4211">Paralegal and related occupations</option>
@@ -292,9 +301,11 @@
                 <option value="5224">Broadcast technicians</option>
                 <option value="5225">Audio and video recording technicians</option>
                 <option value="5226">Other technical and co-ordinating occupations in motion pictures, broadcasting
-                    and the performing arts</option>
+                    and the performing arts
+                </option>
                 <option value="5227">Support occupations in motion pictures, broadcasting, photography and the
-                    performing arts</option>
+                    performing arts
+                </option>
                 <option value="5231">Announcers and other broadcasters</option>
                 <option value="5232">Other performers, n.e.c.</option>
                 <option value="5241">Graphic designers and illustrators</option>
@@ -337,7 +348,8 @@
                 <option value="6522">Pursers and flight attendants</option>
                 <option value="6523">Airline ticket and service agents</option>
                 <option value="6524">Ground and water transport ticket agents, cargo service representatives and
-                    related clerks</option>
+                    related clerks
+                </option>
                 <option value="6525">Hotel front desk clerks</option>
                 <option value="6531">Tour and travel guides</option>
                 <option value="6532">Outdoor sport and recreational guides</option>
@@ -363,11 +375,15 @@
                 <option value="6733">Janitors, caretakers and building superintendents</option>
                 <option value="6741">Dry cleaning, laundry and related occupations</option>
                 <option value="6742">Other service support occupations, n.e.c.</option>
-                <option value="7201">Contractors and supervisors, machining, metal forming, shaping and erecting trades and related occupations</option>
-                <option value="7202">Contractors and supervisors, electrical trades and telecommunications occupations</option>
+                <option value="7201">Contractors and supervisors, machining, metal forming, shaping and erecting trades
+                    and related occupations
+                </option>
+                <option value="7202">Contractors and supervisors, electrical trades and telecommunications occupations
+                </option>
                 <option value="7203">Contractors and supervisors, pipefitting trades</option>
                 <option value="7204">Contractors and supervisors, carpentry trades</option>
-                <option value="7205">Contractors and supervisors, other construction trades, installers, repairers and servicers
+                <option value="7205">Contractors and supervisors, other construction trades, installers, repairers and
+                    servicers
                 </option>
                 <option value="7231">Machinists and machining and tooling inspectors</option>
                 <option value="7232">Tool and die makers</option>
@@ -452,9 +468,11 @@
                 <option value="8232">Oil and gas well drillers, servicers, testers and related workers</option>
                 <option value="8241">Logging machinery operators</option>
                 <option value="8252">Agricultural service contractors, farm supervisors and specialized livestock
-                    workers</option>
+                    workers
+                </option>
                 <option value="8255">Contractors and supervisors, landscaping, grounds maintenance and horticulture
-                    services</option>
+                    services
+                </option>
                 <option value="8261">Fishing masters and officers</option>
                 <option value="8262">Fishermen/women</option>
                 <option value="8411">Underground mine service and support workers</option>
@@ -477,7 +495,8 @@
                 <option value="9214">Supervisors, plastic and rubber products manufacturing</option>
                 <option value="9215">Supervisors, forest products processing</option>
                 <option value="9217">Supervisors, textile, fabric, fur and leather products processing and
-                    manufacturing</option>
+                    manufacturing
+                </option>
                 <option value="9221">Supervisors, motor vehicle assembling</option>
                 <option value="9222">Supervisors, electronics manufacturing</option>
                 <option value="9223">Supervisors, electrical products manufacturing</option>
@@ -528,9 +547,11 @@
                 <option value="9522">Motor vehicle assemblers, inspectors and testers</option>
                 <option value="9523">Electronics assemblers, fabricators, inspectors and testers</option>
                 <option value="9524">Assemblers and inspectors, electrical appliance, apparatus and equipment
-                    manufacturing</option>
+                    manufacturing
+                </option>
                 <option value="9525">Assemblers, fabricators and inspectors, industrial electrical motors and
-                    transformers</option>
+                    transformers
+                </option>
                 <option value="9526">Mechanical assemblers and inspectors</option>
                 <option value="9527">Machine operators and inspectors, electrical apparatus manufacturing</option>
                 <option value="9531">Boat assemblers and inspectors</option>
@@ -550,14 +571,16 @@
                 <option value="9618">Labourers in fish and seafood processing</option>
                 <option value="9619">Other labourers in processing, manufacturing and utilities</option>
             </datalist>
+        </div>
 
+        <div class="territory">
             <input type="text"
-                   placeholder="Choose province or Territory"
-                   data-min-length='1'
-                   multiple='multiple'
-                   data-value-property=''
-                   id="provinceInput"
-                   list="provinces">
+                  placeholder="Choose province or Territory"
+                  data-min-length='1'
+                  multiple='multiple'
+                  data-value-property=''
+                  id="provinceInput"
+                  list="provinces">
             <datalist id="provinces">
                 <option value="Select all">Select all</option>
                 <option value="AB">Alberta</option>
@@ -574,10 +597,38 @@
                 <option value="SK">Saskatchewan</option>
                 <option value="YT">Yukon</option>
             </datalist>
-            <input type="submit" value="Search">
+        </div>
+
+			<div class="button">
+            <input type="image" class="searchButton" src="../static/search.png" alt="Submit">
+            </div>
 <!--                        <button class="searchButton" type="submit"><img src="../static/search.png" width="43" height="39">-->
 <!--                        </button>-->
     </form>
+
+    <div class="searchResultsWrapper">
+<!--        Placeholder for search results-->
+        <div class="result"></div>
+        <div class="result"></div>
+        <div class="result"></div>
+        <div class="result"></div>
+        <div class="result"></div>
+        <div class="result"></div>
+        <div class="result"></div>
+        <div class="result"></div>
+        <div class="result"></div>
+        <div class="result"></div>
+        <div class="result"></div>
+        <div class="result"></div>
+        <div class="result"></div>
+        <div class="result"></div>
+        <div class="result"></div>
+    </div>
+<!--    <div class="nextPage">-->
+<!--        <span class="SJajHc NVbCr"-->
+<!--              style="background:url(/images/nav_logo299.webp) no-repeat;background-position:-96px 0;width:71px"></span>-->
+<!--        <span style="display:block;margin-left:53px">Next</span>-->
+<!--    </div>-->
 
     <div class="footer">
         <footer>

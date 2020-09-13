@@ -1,7 +1,5 @@
-//TODO: Re-implement styles for dropdowns and fields.
-
-body {
-    background-color:#282b29;
+body{
+    background-color: #282b29;
     }
 p {
     color: red;
@@ -10,64 +8,43 @@ p {
 }
 
 .flag {
-     display: block;
+     display: fixed;
      position: fixed;
-     height: 1%;
-     width: 1%;
+     height: 100%;
+     width: 100%;
      background: url(../static/flag.png);
      }
 
-.searchForm{
-          position: fixed;
-          left: 50%;
-          top: 352px;
-          width: 100%;
-          margin-left: -25%;
-          margin-top: -25%;
-      }
-
-#nocInput {
-    width: 450px;
+.occupationCode{
+	position:fixed;
+	top:50%;
+	left: 20%;
+	width:30%;
 }
 
-#provinceInput{
-    width: 200px;
+.territory{
+	position:fixed;
+	top:50%;
+	left:52%;
+	width:30%;
 }
 
-.dropdownNoc,
-.dropdownProvince{
-     position: fixed;
-     height: 49px;
-     top: 352px;
-     font-family: Roboto;
-     font-style: normal;
-     font-weight: normal;
-     font-size: 14px;
-     line-height: 16px;
-     display: flex;
-     align-items: center;
-     letter-spacing: 0.1em;
+#searchFormId{
+    position: fixed;
+    top: 50%;
+    left: 20%;
+    width: 75%;
 }
-
-.dropdownNoc {
-     width: 900px;
-     left: 52px;
-     }
-
-.dropdownProvince{
-     width: 230px;
-     left: 910px;
-     }
 
 .searchButton{
-    position: fixed;
+    position:fixed;
     display:block;
     width: 53px;
     height: 49px;
     border-radius: 50%;
-    left: 1150px;
-    top: 352px;
-     }
+	left: 83%;
+    top: 50%;
+ }
 
 .footer{
       position: fixed;
