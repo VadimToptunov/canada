@@ -2,15 +2,20 @@
 <html>
 <head>
     <link rel="stylesheet" href="../style/styles.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="../style/jquery.flexdatalist.min.css">
+
 </head>
 <body>
 <div class="mainPage">
     <img src="../static/flag.png" alt="Canadian_Flag" class="flag" height="300" width="200">
-    <div class="searchForm">
-        <div class="dropdownNoc">
-            <input type="text" placeholder="Insert Your NOC(s)" id="nocInput" list="nocsList"
-                   onkeyup="filterFunction()">
+    <form action="" id="searchFormId">
+            <input type="text"
+                   id="nocInput"
+                   placeholder="Insert Your NOC(s)"
+                   data-min-length='1'
+                   data-value-property=''
+                   multiple='multiple'
+                   list="nocsList">
             <datalist id="nocsList">
                 <option value="0011">Legislators</option>
                 <option value="0012">Senior government managers and officials</option>
@@ -545,10 +550,14 @@
                 <option value="9618">Labourers in fish and seafood processing</option>
                 <option value="9619">Other labourers in processing, manufacturing and utilities</option>
             </datalist>
-        </div>
-        <div class="dropdownProvince">
-            <input type="text" placeholder="Choose province or Territory" id="provinceInput" list="provinces"
-                   onkeyup="filterProvinceFunction()">
+
+            <input type="text"
+                   placeholder="Choose province or Territory"
+                   data-min-length='1'
+                   multiple='multiple'
+                   data-value-property=''
+                   id="provinceInput"
+                   list="provinces">
             <datalist id="provinces">
                 <option value="Select all">Select all</option>
                 <option value="AB">Alberta</option>
@@ -565,11 +574,10 @@
                 <option value="SK">Saskatchewan</option>
                 <option value="YT">Yukon</option>
             </datalist>
-        </div>
-        <div class="searchButtonDiv">
-                        <button class="searchButton" type="submit"><img src="../static/search.png" width="43" height="39"></button>
-        </div>
-    </div>
+            <input type="submit" value="Search">
+<!--                        <button class="searchButton" type="submit"><img src="../static/search.png" width="43" height="39">-->
+<!--                        </button>-->
+    </form>
 
     <div class="footer">
         <footer>
@@ -579,6 +587,8 @@
         </footer>
     </div>
 </div>
-<script src="../scripts/scripts.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="../scripts/jquery.flexdatalist.min.js"></script>
+<script src="../scripts/script.js"></script>
 </body>
 </html>
