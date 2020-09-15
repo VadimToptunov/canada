@@ -1,0 +1,2002 @@
+[
+  {
+    "value": "0011",
+    "label": "Legislators"
+  },
+  {
+    "value": "0012",
+    "label": "Senior government managers and officials"
+  },
+  {
+    "value": "0013",
+    "label": "Senior managers - financial, communications and other business services"
+  },
+  {
+    "value": "0014",
+    "label": "Senior managers - health, education, social and community services and membership organizations"
+  },
+  {
+    "value": "0015",
+    "label": "Senior managers - trade, broadcasting and other services, n.e.c."
+  },
+  {
+    "value": "0016",
+    "label": "Senior managers - construction, transportation, production and utilities"
+  },
+  {
+    "value": "0111",
+    "label": "Financial managers"
+  },
+  {
+    "value": "0112",
+    "label": "Human resources managers"
+  },
+  {
+    "value": "0113",
+    "label": "Purchasing managers"
+  },
+  {
+    "value": "0114",
+    "label": "Other administrative services managers"
+  },
+  {
+    "value": "0121",
+    "label": "Insurance, real estate and financial brokerage managers"
+  },
+  {
+    "value": "0122",
+    "label": "Banking, credit and other investment managers"
+  },
+  {
+    "value": "0124",
+    "label": "Advertising, marketing and public relations managers"
+  },
+  {
+    "value": "0125",
+    "label": "Other business services managers"
+  },
+  {
+    "value": "0131",
+    "label": "Telecommunication carriers managers"
+  },
+  {
+    "value": "0132",
+    "label": "Postal and courier services managers"
+  },
+  {
+    "value": "0211",
+    "label": "Engineering managers"
+  },
+  {
+    "value": "0212",
+    "label": "Architecture and science managers"
+  },
+  {
+    "value": "0213",
+    "label": "Computer and information systems managers"
+  },
+  {
+    "value": "0311",
+    "label": "Managers in health care"
+  },
+  {
+    "value": "0411",
+    "label": "Government managers - health and social policy development and program administration"
+  },
+  {
+    "value": "0412",
+    "label": "Government managers - economic analysis, policy development and program administration"
+  },
+  {
+    "value": "0413",
+    "label": "Government managers - education policy development and program administration"
+  },
+  {
+    "value": "0414",
+    "label": "Other managers in public administration"
+  },
+  {
+    "value": "0421",
+    "label": "Administrators - post-secondary education and vocational training"
+  },
+  {
+    "value": "0422",
+    "label": "School principals and administrators of elementary and secondary education"
+  },
+  {
+    "value": "0423",
+    "label": "Managers in social, community and correctional services"
+  },
+  {
+    "value": "0431",
+    "label": "Commissioned police officers"
+  },
+  {
+    "value": "0432",
+    "label": "Fire chiefs and senior firefighting officers"
+  },
+  {
+    "value": "0433",
+    "label": "Commissioned officers of the Canadian Armed Forces"
+  },
+  {
+    "value": "0511",
+    "label": "Library, archive, museum and art gallery managers"
+  },
+  {
+    "value": "0522",
+    "label": "Managers - publishing, motion pictures, broadcasting and performing arts"
+  },
+  {
+    "value": "0513",
+    "label": "Recreation, sports and fitness program and service directors"
+  },
+  {
+    "value": "0601",
+    "label": "Corporate sales managers"
+  },
+  {
+    "value": "0621",
+    "label": "Retail and wholesale trade managers"
+  },
+  {
+    "value": "0631",
+    "label": "Restaurant and food service managers"
+  },
+  {
+    "value": "0632",
+    "label": "Accommodation service managers"
+  },
+  {
+    "value": "0651",
+    "label": "Managers in customer and personal services, n.e.c."
+  },
+  {
+    "value": "0711",
+    "label": "Construction managers"
+  },
+  {
+    "value": "0712",
+    "label": "Home building and renovation managers"
+  },
+  {
+    "value": "0714",
+    "label": "Facility operation and maintenance managers"
+  },
+  {
+    "value": "0731",
+    "label": "Managers in transportation"
+  },
+  {
+    "value": "0811",
+    "label": "Managers in natural resources production and fishing"
+  },
+  {
+    "value": "0821",
+    "label": "Managers in agriculture"
+  },
+  {
+    "value": "0822",
+    "label": "Managers in horticulture"
+  },
+  {
+    "value": "0823",
+    "label": "Managers in aquaculture"
+  },
+  {
+    "value": "0911",
+    "label": "Manufacturing managers"
+  },
+  {
+    "value": "0912",
+    "label": "Utilities managers"
+  },
+  {
+    "value": "1111",
+    "label": "Financial auditors and accountants"
+  },
+  {
+    "value": "1112",
+    "label": "Financial and investment analysts"
+  },
+  {
+    "value": "1113",
+    "label": "Securities agents, investment dealers and brokers"
+  },
+  {
+    "value": "1114",
+    "label": "Other financial officers"
+  },
+  {
+    "value": "1121",
+    "label": "Human resources professionals"
+  },
+  {
+    "value": "1122",
+    "label": "Professional occupations in business management consulting"
+  },
+  {
+    "value": "1123",
+    "label": "Professional occupations in advertising, marketing and public relations"
+  },
+  {
+    "value": "1211",
+    "label": "Supervisors, general office and administrative support workers"
+  },
+  {
+    "value": "1212",
+    "label": "Supervisors, finance and insurance office workers"
+  },
+  {
+    "value": "1213",
+    "label": "Supervisors, library, correspondence and related information workers"
+  },
+  {
+    "value": "1214",
+    "label": "Supervisors, mail and message distribution occupations"
+  },
+  {
+    "value": "1215",
+    "label": "Supervisors, supply chain, tracking and scheduling co-ordination occupations"
+  },
+  {
+    "value": "1221",
+    "label": "Administrative officers"
+  },
+  {
+    "value": "1222",
+    "label": "Executive assistants"
+  },
+  {
+    "value": "1223",
+    "label": "Human resources and recruitment officers"
+  },
+  {
+    "value": "1224",
+    "label": "Property administrators"
+  },
+  {
+    "value": "1225",
+    "label": "Purchasing agents and officers"
+  },
+  {
+    "value": "1226",
+    "label": "Conference and event planners"
+  },
+  {
+    "value": "1227",
+    "label": "Court officers and justices of the peace"
+  },
+  {
+    "value": "1228",
+    "label": "Employment insurance, immigration, border services and revenue officers"
+  },
+  {
+    "value": "1241",
+    "label": "Administrative assistants"
+  },
+  {
+    "value": "1242",
+    "label": "Legal administrative assistants"
+  },
+  {
+    "value": "1243",
+    "label": "Medical administrative assistants"
+  },
+  {
+    "value": "1251",
+    "label": "Court reporters, medical transcriptionists and related occupations"
+  },
+  {
+    "value": "1252",
+    "label": "Health information management occupations"
+  },
+  {
+    "value": "1253",
+    "label": "Records management technicians"
+  },
+  {
+    "value": "1254",
+    "label": "Statistical officers and related research support occupations"
+  },
+  {
+    "value": "1311",
+    "label": "Accounting technicians and bookkeepers"
+  },
+  {
+    "value": "1312",
+    "label": "Insurance adjusters and claims examiners"
+  },
+  {
+    "value": "1313",
+    "label": "Insurance underwriters"
+  },
+  {
+    "value": "1314",
+    "label": "Assessors, valuators and appraisers"
+  },
+  {
+    "value": "1315",
+    "label": "Customs, ship and other brokers"
+  },
+  {
+    "value": "1411",
+    "label": "General office support workers"
+  },
+  {
+    "value": "1414",
+    "label": "Receptionists"
+  },
+  {
+    "value": "1414",
+    "label": "Personnel clerks"
+  },
+  {
+    "value": "1416",
+    "label": "Court clerks"
+  },
+  {
+    "value": "1422",
+    "label": "Data entry clerks"
+  },
+  {
+    "value": "1423",
+    "label": "Desktop publishing operators and related occupations"
+  },
+  {
+    "value": "1431",
+    "label": "Accounting and related clerks"
+  },
+  {
+    "value": "1432",
+    "label": "Payroll administrators"
+  },
+  {
+    "value": "1434",
+    "label": "Banking, insurance and other financial clerks"
+  },
+  {
+    "value": "1435",
+    "label": "Collectors"
+  },
+  {
+    "value": "1451",
+    "label": "Library assistants and clerks"
+  },
+  {
+    "value": "1452",
+    "label": "Correspondence, publication and regulatory clerks"
+  },
+  {
+    "value": "1454",
+    "label": "Survey interviewers and statistical clerks"
+  },
+  {
+    "value": "1511",
+    "label": "Mail, postal and related workers"
+  },
+  {
+    "value": "1512",
+    "label": "Letter carriers"
+  },
+  {
+    "value": "1513",
+    "label": "Couriers, messengers and door-to-door distributors"
+  },
+  {
+    "value": "1521",
+    "label": "Shippers and receivers"
+  },
+  {
+    "value": "1522",
+    "label": "Storekeepers and partspersons"
+  },
+  {
+    "value": "1523",
+    "label": "Production logistics co-ordinators"
+  },
+  {
+    "value": "1524",
+    "label": "Purchasing and inventory control workers"
+  },
+  {
+    "value": "1525",
+    "label": "Dispatchers"
+  },
+  {
+    "value": "1526",
+    "label": "Transportation route and crew schedulers"
+  },
+  {
+    "value": "2111",
+    "label": "Physicists and astronomers"
+  },
+  {
+    "value": "2112",
+    "label": "Chemists"
+  },
+  {
+    "value": "2113",
+    "label": "Geoscientists and oceanographers"
+  },
+  {
+    "value": "2114",
+    "label": "Meteorologists and climatologists"
+  },
+  {
+    "value": "2115",
+    "label": "Other professional occupations in physical sciences"
+  },
+  {
+    "value": "2121",
+    "label": "Biologists and related scientists"
+  },
+  {
+    "value": "2122",
+    "label": "Forestry professionals"
+  },
+  {
+    "value": "2123",
+    "label": "Agricultural representatives, consultants and specialists"
+  },
+  {
+    "value": "2131",
+    "label": "Civil engineers"
+  },
+  {
+    "value": "2132",
+    "label": "Mechanical engineers"
+  },
+  {
+    "value": "2133",
+    "label": "Electrical and electronics engineers"
+  },
+  {
+    "value": "2134",
+    "label": "Chemical engineers"
+  },
+  {
+    "value": "2141",
+    "label": "Industrial and manufacturing engineers"
+  },
+  {
+    "value": "2142",
+    "label": "Metallurgical and materials engineers"
+  },
+  {
+    "value": "2143",
+    "label": "Mining engineers"
+  },
+  {
+    "value": "2144",
+    "label": "Geological engineers"
+  },
+  {
+    "value": "2145",
+    "label": "Petroleum engineers"
+  },
+  {
+    "value": "2146",
+    "label": "Aerospace engineers"
+  },
+  {
+    "value": "2147",
+    "label": "Computer engineers (except software engineers and designers)"
+  },
+  {
+    "value": "2148",
+    "label": "Other professional engineers, n.e.c."
+  },
+  {
+    "value": "2151",
+    "label": "Architects"
+  },
+  {
+    "value": "2152",
+    "label": "Landscape architects"
+  },
+  {
+    "value": "2153",
+    "label": "Urban and land use planners"
+  },
+  {
+    "value": "2154",
+    "label": "Land surveyors"
+  },
+  {
+    "value": "2161",
+    "label": "Mathematicians, statisticians and actuaries"
+  },
+  {
+    "value": "2171",
+    "label": "Information systems analysts and consultants"
+  },
+  {
+    "value": "2172",
+    "label": "Database analysts and data administrators"
+  },
+  {
+    "value": "2173",
+    "label": "Software engineers and designers"
+  },
+  {
+    "value": "2174",
+    "label": "Computer programmers and interactive media developers"
+  },
+  {
+    "value": "2175",
+    "label": "Web designers and developers"
+  },
+  {
+    "value": "2211",
+    "label": "Chemical technologists and technicians"
+  },
+  {
+    "value": "2212",
+    "label": "Geological and mineral technologists and technicians"
+  },
+  {
+    "value": "2221",
+    "label": "Biological technologists and technicians"
+  },
+  {
+    "value": "2222",
+    "label": "Agricultural and fish products inspectors"
+  },
+  {
+    "value": "2223",
+    "label": "Forestry technologists and technicians"
+  },
+  {
+    "value": "2224",
+    "label": "Conservation and fishery officers"
+  },
+  {
+    "value": "2225",
+    "label": "Landscape and horticulture technicians and specialists"
+  },
+  {
+    "value": "2231",
+    "label": "Civil engineering technologists and technicians"
+  },
+  {
+    "value": "2232",
+    "label": "Mechanical engineering technologists and technicians"
+  },
+  {
+    "value": "2233",
+    "label": "Industrial engineering and manufacturing technologists and technicians"
+  },
+  {
+    "value": "2234",
+    "label": "Construction estimators"
+  },
+  {
+    "value": "2241",
+    "label": "Electrical and electronics engineering technologists and technicians"
+  },
+  {
+    "value": "2242",
+    "label": "Electronic service technicians (household and business equipment)"
+  },
+  {
+    "value": "2243",
+    "label": "Industrial instrument technicians and mechanics"
+  },
+  {
+    "value": "2244",
+    "label": "Aircraft instrument, electrical and avionics mechanics, technicians and inspectors"
+  },
+  {
+    "value": "2251",
+    "label": "Architectural technologists and technicians"
+  },
+  {
+    "value": "2252",
+    "label": "Industrial designers"
+  },
+  {
+    "value": "2253",
+    "label": "Drafting technologists and technicians"
+  },
+  {
+    "value": "2254",
+    "label": "Land survey technologists and technicians"
+  },
+  {
+    "value": "2255",
+    "label": "Technical occupations in geomatics and meteorology"
+  },
+  {
+    "value": "2261",
+    "label": "Non-destructive testers and inspection technicians"
+  },
+  {
+    "value": "2262",
+    "label": "Engineering inspectors and regulatory officers"
+  },
+  {
+    "value": "2263",
+    "label": "Inspectors in public and environmental health and occupational health and safety"
+  },
+  {
+    "value": "2264",
+    "label": "Construction inspectors"
+  },
+  {
+    "value": "2271",
+    "label": "Air pilots, flight engineers and flying instructors"
+  },
+  {
+    "value": "2272",
+    "label": "Air traffic controllers and related occupations"
+  },
+  {
+    "value": "2273",
+    "label": "Deck officers, water transport"
+  },
+  {
+    "value": "2274",
+    "label": "Engineer officers, water transport"
+  },
+  {
+    "value": "2275",
+    "label": "Railway traffic controllers and marine traffic regulators"
+  },
+  {
+    "value": "2281",
+    "label": "Computer network technicians"
+  },
+  {
+    "value": "2282",
+    "label": "User support technicians"
+  },
+  {
+    "value": "2283",
+    "label": "Information systems testing technicians"
+  },
+  {
+    "value": "3011",
+    "label": "Nursing co-ordinators and supervisors"
+  },
+  {
+    "value": "3012",
+    "label": "Registered nurses and registered psychiatric nurses"
+  },
+  {
+    "value": "3111",
+    "label": "Specialist physicians"
+  },
+  {
+    "value": "3112",
+    "label": "General practitioners and family physicians"
+  },
+  {
+    "value": "3113",
+    "label": "Dentists"
+  },
+  {
+    "value": "3114",
+    "label": "Veterinarians"
+  },
+  {
+    "value": "3121",
+    "label": "Optometrists"
+  },
+  {
+    "value": "3122",
+    "label": "Chiropractors"
+  },
+  {
+    "value": "3124",
+    "label": "Allied primary health practitioners"
+  },
+  {
+    "value": "3125",
+    "label": "Other professional occupations in health diagnosing and treating"
+  },
+  {
+    "value": "3131",
+    "label": "Pharmacists"
+  },
+  {
+    "value": "3132",
+    "label": "Dietitians and nutritionists"
+  },
+  {
+    "value": "3141",
+    "label": "Audiologists and speech-language pathologists"
+  },
+  {
+    "value": "3142",
+    "label": "Physiotherapists"
+  },
+  {
+    "value": "3143",
+    "label": "Occupational therapists"
+  },
+  {
+    "value": "3144",
+    "label": "Other professional occupations in therapy and assessment"
+  },
+  {
+    "value": "3211",
+    "label": "Medical laboratory technologists"
+  },
+  {
+    "value": "3212",
+    "label": "Medical laboratory technicians and pathologists’ assistants"
+  },
+  {
+    "value": "3213",
+    "label": "Animal health technologists and veterinary technicians"
+  },
+  {
+    "value": "3214",
+    "label": "Respiratory therapists, clinical perfusionists and cardiopulmonary technologists"
+  },
+  {
+    "value": "3215",
+    "label": "Medical radiation technologists"
+  },
+  {
+    "value": "3216",
+    "label": "Medical sonographers"
+  },
+  {
+    "value": "3217",
+    "label": "Cardiology technologists and electrophysiological diagnostic technologists n.e.c."
+  },
+  {
+    "value": "3219",
+    "label": "Other medical technologists and technicians (except dental health)"
+  },
+  {
+    "value": "3221",
+    "label": "Denturists"
+  },
+  {
+    "value": "3222",
+    "label": "Dental hygienists and dental therapists"
+  },
+  {
+    "value": "3223",
+    "label": "Dental technologists, technicians and laboratory assistants"
+  },
+  {
+    "value": "3231",
+    "label": "Opticians"
+  },
+  {
+    "value": "3232",
+    "label": "Practitioners of natural healing"
+  },
+  {
+    "value": "3233",
+    "label": "Licensed practical nurses"
+  },
+  {
+    "value": "3234",
+    "label": "Paramedical occupations"
+  },
+  {
+    "value": "3236",
+    "label": "Massage therapists"
+  },
+  {
+    "value": "3237",
+    "label": "Other technical occupations in therapy and assessment"
+  },
+  {
+    "value": "3411",
+    "label": "Dental assistants"
+  },
+  {
+    "value": "3413",
+    "label": "Nurse aides, orderlies and patient service associates"
+  },
+  {
+    "value": "3414",
+    "label": "Other assisting occupations in support of health services"
+  },
+  {
+    "value": "4011",
+    "label": "University professors and lecturers"
+  },
+  {
+    "value": "4012",
+    "label": "Post-secondary teaching and research assistants"
+  },
+  {
+    "value": "4021",
+    "label": "College and other vocational instructors"
+  },
+  {
+    "value": "4031",
+    "label": "Secondary school teachers"
+  },
+  {
+    "value": "4032",
+    "label": "Elementary school and kindergarten teachers"
+  },
+  {
+    "value": "4033",
+    "label": "Educational counsellors"
+  },
+  {
+    "value": "4111",
+    "label": "Judges"
+  },
+  {
+    "value": "4112",
+    "label": "Lawyers and Quebec notaries"
+  },
+  {
+    "value": "4151",
+    "label": "Psychologists"
+  },
+  {
+    "value": "4152",
+    "label": "Social workers"
+  },
+  {
+    "value": "4153",
+    "label": "Family, marriage and other related counsellors"
+  },
+  {
+    "value": "4154",
+    "label": "Professional occupations in religion"
+  },
+  {
+    "value": "4155",
+    "label": "Probation and parole officers and related occupations"
+  },
+  {
+    "value": "4156",
+    "label": "Employment counsellors"
+  },
+  {
+    "value": "4161",
+    "label": "Natural and applied science policy researchers, consultants and program officers"
+  },
+  {
+    "value": "4162",
+    "label": "Economists and economic policy researchers and analysts"
+  },
+  {
+    "value": "4163",
+    "label": "Business development officers and marketing researchers and consultants"
+  },
+  {
+    "value": "4164",
+    "label": "Social policy researchers, consultants and program officers"
+  },
+  {
+    "value": "4165",
+    "label": "Health policy researchers, consultants and program officers"
+  },
+  {
+    "value": "4166",
+    "label": "Education policy researchers, consultants and program officers"
+  },
+  {
+    "value": "4167",
+    "label": "Recreation, sports and fitness policy researchers, consultants and program officers"
+  },
+  {
+    "value": "4168",
+    "label": "Program officers unique to government"
+  },
+  {
+    "value": "4169",
+    "label": "Other professional occupations in social science, n.e.c."
+  },
+  {
+    "value": "4211",
+    "label": "Paralegal and related occupations"
+  },
+  {
+    "value": "4212",
+    "label": "Social and community service workers"
+  },
+  {
+    "value": "4214",
+    "label": "Early childhood educators and assistants"
+  },
+  {
+    "value": "4215",
+    "label": "Instructors of persons with disabilities"
+  },
+  {
+    "value": "4216",
+    "label": "Other instructors"
+  },
+  {
+    "value": "4217",
+    "label": "Other religious occupations"
+  },
+  {
+    "value": "4311",
+    "label": "Police officers (except commissioned)"
+  },
+  {
+    "value": "4312",
+    "label": "Firefighters"
+  },
+  {
+    "value": "4313",
+    "label": "Non-commissioned ranks of the Canadian Armed Forces"
+  },
+  {
+    "value": "4411",
+    "label": "Home child care providers"
+  },
+  {
+    "value": "4412",
+    "label": "Home support workers, housekeepers and related occupations"
+  },
+  {
+    "value": "4414",
+    "label": "Elementary and secondary school teacher assistants"
+  },
+  {
+    "value": "4421",
+    "label": "Sheriffs and bailiffs"
+  },
+  {
+    "value": "4422",
+    "label": "Correctional service officers"
+  },
+  {
+    "value": "4423",
+    "label": "By-law enforcement and other regulatory officers, n.e.c."
+  },
+  {
+    "value": "5111",
+    "label": "Librarians"
+  },
+  {
+    "value": "5112",
+    "label": "Conservators and curators"
+  },
+  {
+    "value": "5113",
+    "label": "Archivists"
+  },
+  {
+    "value": "5121",
+    "label": "Authors and writers"
+  },
+  {
+    "value": "5122",
+    "label": "Editors"
+  },
+  {
+    "value": "5123",
+    "label": "Journalists"
+  },
+  {
+    "value": "5125",
+    "label": "Translators, terminologists and interpreters"
+  },
+  {
+    "value": "5131",
+    "label": "Producers, directors, choreographers and related occupations"
+  },
+  {
+    "value": "5132",
+    "label": "Conductors, composers and arrangers"
+  },
+  {
+    "value": "5133",
+    "label": "Musicians and singers"
+  },
+  {
+    "value": "5134",
+    "label": "Dancers"
+  },
+  {
+    "value": "5135",
+    "label": "Actors and comedians"
+  },
+  {
+    "value": "5136",
+    "label": "Painters, sculptors and other visual artists"
+  },
+  {
+    "value": "5211",
+    "label": "Library and public archive technicians"
+  },
+  {
+    "value": "5212",
+    "label": "Technical occupations related to museums and art galleries"
+  },
+  {
+    "value": "5221",
+    "label": "Photographers"
+  },
+  {
+    "value": "5222",
+    "label": "Film and video camera operators"
+  },
+  {
+    "value": "5223",
+    "label": "Graphic arts technicians"
+  },
+  {
+    "value": "5224",
+    "label": "Broadcast technicians"
+  },
+  {
+    "value": "5225",
+    "label": "Audio and video recording technicians"
+  },
+  {
+    "value": "5226",
+    "label": "Other technical and co-ordinating occupations in motion pictures, broadcasting and the performing arts"
+  },
+  {
+    "value": "5227",
+    "label": "Support occupations in motion pictures, broadcasting, photography and the performing arts"
+  },
+  {
+    "value": "5231",
+    "label": "Announcers and other broadcasters"
+  },
+  {
+    "value": "5232",
+    "label": "Other performers, n.e.c."
+  },
+  {
+    "value": "5241",
+    "label": "Graphic designers and illustrators"
+  },
+  {
+    "value": "5242",
+    "label": "Interior designers and interior decorators"
+  },
+  {
+    "value": "5243",
+    "label": "Theatre, fashion, exhibit and other creative designers"
+  },
+  {
+    "value": "5244",
+    "label": "Artisans and craftspersons"
+  },
+  {
+    "value": "5245",
+    "label": "Patternmakers - textile, leather and fur products"
+  },
+  {
+    "value": "5251",
+    "label": "Athletes"
+  },
+  {
+    "value": "5252",
+    "label": "Coaches"
+  },
+  {
+    "value": "5253",
+    "label": "Sports officials and referees"
+  },
+  {
+    "value": "5254",
+    "label": "Program leaders and instructors in recreation, sport and fitness"
+  },
+  {
+    "value": "6211",
+    "label": "Retail sales supervisors"
+  },
+  {
+    "value": "6221",
+    "label": "Technical sales specialists - wholesale trade"
+  },
+  {
+    "value": "6222",
+    "label": "Retail and wholesale buyers"
+  },
+  {
+    "value": "6231",
+    "label": "Insurance agents and brokers"
+  },
+  {
+    "value": "6232",
+    "label": "Real estate agents and salespersons"
+  },
+  {
+    "value": "6235",
+    "label": "Financial sales representatives"
+  },
+  {
+    "value": "6311",
+    "label": "Food service supervisors"
+  },
+  {
+    "value": "6312",
+    "label": "Executive housekeepers"
+  },
+  {
+    "value": "6313",
+    "label": "Accommodation, travel, tourism and related services supervisors"
+  },
+  {
+    "value": "6314",
+    "label": "Customer and information services supervisors"
+  },
+  {
+    "value": "6315",
+    "label": "Cleaning supervisors"
+  },
+  {
+    "value": "6316",
+    "label": "Other services supervisors"
+  },
+  {
+    "value": "6321",
+    "label": "Chefs"
+  },
+  {
+    "value": "6322",
+    "label": "Cooks"
+  },
+  {
+    "value": "6331",
+    "label": "Butchers, meat cutters and fishmongers - retail and wholesale"
+  },
+  {
+    "value": "6332",
+    "label": "Bakers"
+  },
+  {
+    "value": "6341",
+    "label": "Hairstylists and barbers"
+  },
+  {
+    "value": "6342",
+    "label": "Tailors, dressmakers, furriers and milliners"
+  },
+  {
+    "value": "6343",
+    "label": "Shoe repairers and shoemakers"
+  },
+  {
+    "value": "6344",
+    "label": "Jewellers, jewellery and watch repairers and related occupations"
+  },
+  {
+    "value": "6345",
+    "label": "Upholsterers"
+  },
+  {
+    "value": "6346",
+    "label": "Funeral directors and embalmers"
+  },
+  {
+    "value": "6411",
+    "label": "Sales and account representatives - wholesale trade (non-technical)"
+  },
+  {
+    "value": "6421",
+    "label": "Retail salespersons"
+  },
+  {
+    "value": "6511",
+    "label": "Maîtres d’hôtel and hosts/hostesses"
+  },
+  {
+    "value": "6512",
+    "label": "Bartenders"
+  },
+  {
+    "value": "6513",
+    "label": "Food and beverage servers"
+  },
+  {
+    "value": "6521",
+    "label": "Travel counsellors"
+  },
+  {
+    "value": "6522",
+    "label": "Pursers and flight attendants"
+  },
+  {
+    "value": "6523",
+    "label": "Airline ticket and service agents"
+  },
+  {
+    "value": "6524",
+    "label": "Ground and water transport ticket agents, cargo service representatives and related clerks"
+  },
+  {
+    "value": "6525",
+    "label": "Hotel front desk clerks"
+  },
+  {
+    "value": "6531",
+    "label": "Tour and travel guides"
+  },
+  {
+    "value": "6532",
+    "label": "Outdoor sport and recreational guides"
+  },
+  {
+    "value": "6533",
+    "label": "Casino occupations"
+  },
+  {
+    "value": "6541",
+    "label": "Security guards and related security service occupations"
+  },
+  {
+    "value": "6551",
+    "label": "Customer services representatives - financial institutions"
+  },
+  {
+    "value": "6552",
+    "label": "Other customer and information services representatives"
+  },
+  {
+    "value": "6561",
+    "label": "Image, social and other personal consultants"
+  },
+  {
+    "value": "6562",
+    "label": "Estheticians, electrologists and related occupations"
+  },
+  {
+    "value": "6563",
+    "label": "Pet groomers and animal care workers"
+  },
+  {
+    "value": "6564",
+    "label": "Other personal service occupations"
+  },
+  {
+    "value": "6611",
+    "label": "Cashiers"
+  },
+  {
+    "value": "6621",
+    "label": "Service station attendants"
+  },
+  {
+    "value": "6622",
+    "label": "Store shelf stockers, clerks and order fillers"
+  },
+  {
+    "value": "6623",
+    "label": "Other sales related occupations"
+  },
+  {
+    "value": "6711",
+    "label": "Food counter attendants, kitchen helpers and related support occupations"
+  },
+  {
+    "value": "6721",
+    "label": "Support occupations in accommodation, travel and facilities set-up services"
+  },
+  {
+    "value": "6722",
+    "label": "Operators and attendants in amusement, recreation and sport"
+  },
+  {
+    "value": "6731",
+    "label": "Light duty cleaners"
+  },
+  {
+    "value": "6721",
+    "label": "Specialized cleaners"
+  },
+  {
+    "value": "6733",
+    "label": "Janitors, caretakers and building superintendents"
+  },
+  {
+    "value": "6741",
+    "label": "Dry cleaning, laundry and related occupations"
+  },
+  {
+    "value": "6742",
+    "label": "Other service support occupations, n.e.c."
+  },
+  {
+    "value": "7201",
+    "label": "Contractors and supervisors, machining, metal forming, shaping and erecting trades and related occupations"
+  },
+  {
+    "value": "7202",
+    "label": "Contractors and supervisors, electrical trades and telecommunications occupations"
+  },
+  {
+    "value": "7203",
+    "label": "Contractors and supervisors, pipefitting trades"
+  },
+  {
+    "value": "7204",
+    "label": "Contractors and supervisors, carpentry trades"
+  },
+  {
+    "value": "7205",
+    "label": "Contractors and supervisors, other construction trades, installers, repairers and servicers"
+  },
+  {
+    "value": "7231",
+    "label": "Machinists and machining and tooling inspectors"
+  },
+  {
+    "value": "7232",
+    "label": "Tool and die makers"
+  },
+  {
+    "value": "7233",
+    "label": "Sheet metal workers"
+  },
+  {
+    "value": "7234",
+    "label": "Boilermakers"
+  },
+  {
+    "value": "7235",
+    "label": "Structural metal and platework fabricators and fitters"
+  },
+  {
+    "value": "7236",
+    "label": "Ironworkers"
+  },
+  {
+    "value": "7237",
+    "label": "Welders and related machine operators"
+  },
+  {
+    "value": "7241",
+    "label": "Electricians (except industrial and power system)"
+  },
+  {
+    "value": "7242",
+    "label": "Industrial electricians"
+  },
+  {
+    "value": "7243",
+    "label": "Power system electricians"
+  },
+  {
+    "value": "7244",
+    "label": "Electrical power line and cable workers"
+  },
+  {
+    "value": "7245",
+    "label": "Telecommunications line and cable workers"
+  },
+  {
+    "value": "7246",
+    "label": "Telecommunications installation and repair workers"
+  },
+  {
+    "value": "7247",
+    "label": "Cable television service and maintenance technicians"
+  },
+  {
+    "value": "7251",
+    "label": "Plumbers"
+  },
+  {
+    "value": "7252",
+    "label": "Steamfitters, pipefitters and sprinkler system installers"
+  },
+  {
+    "value": "7253",
+    "label": "Gas fitters"
+  },
+  {
+    "value": "7271",
+    "label": "Carpenters"
+  },
+  {
+    "value": "7272",
+    "label": "Cabinetmakers"
+  },
+  {
+    "value": "7281",
+    "label": "Bricklayers"
+  },
+  {
+    "value": "7282",
+    "label": "Concrete finishers"
+  },
+  {
+    "value": "7283",
+    "label": "Tilesetters"
+  },
+  {
+    "value": "7284",
+    "label": "Plasterers, drywall installers and finishers and lathers"
+  },
+  {
+    "value": "7291",
+    "label": "Roofers and shinglers"
+  },
+  {
+    "value": "7292",
+    "label": "Glaziers"
+  },
+  {
+    "value": "7293",
+    "label": "Insulators"
+  },
+  {
+    "value": "7294",
+    "label": "Painters and decorators (except interior decorators)"
+  },
+  {
+    "value": "7295",
+    "label": "Floor covering installers"
+  },
+  {
+    "value": "7301",
+    "label": "Contractors and supervisors, mechanic trades"
+  },
+  {
+    "value": "7302",
+    "label": "Contractors and supervisors, heavy equipment operator crews"
+  },
+  {
+    "value": "7303",
+    "label": "Supervisors, printing and related occupations"
+  },
+  {
+    "value": "7304",
+    "label": "Supervisors, railway transport operations"
+  },
+  {
+    "value": "7305",
+    "label": "Supervisors, motor transport and other ground transit operators"
+  },
+  {
+    "value": "7311",
+    "label": "Construction millwrights and industrial mechanics"
+  },
+  {
+    "value": "7312",
+    "label": "Heavy-duty equipment mechanics"
+  },
+  {
+    "value": "7313",
+    "label": "Heating, refrigeration and air conditioning mechanics"
+  },
+  {
+    "value": "7314",
+    "label": "Railway carmen/women"
+  },
+  {
+    "value": "7315",
+    "label": "Aircraft mechanics and aircraft inspectors"
+  },
+  {
+    "value": "7316",
+    "label": "Machine fitters"
+  },
+  {
+    "value": "7318",
+    "label": "Elevator constructors and mechanics"
+  },
+  {
+    "value": "7321",
+    "label": "Automotive service technicians, truck and bus mechanics and mechanical repairers"
+  },
+  {
+    "value": "7322",
+    "label": "Motor vehicle body repairers"
+  },
+  {
+    "value": "7331",
+    "label": "Oil and solid fuel heating mechanics"
+  },
+  {
+    "value": "7332",
+    "label": "Appliance servicers and repairers"
+  },
+  {
+    "value": "7333",
+    "label": "Electrical mechanics"
+  },
+  {
+    "value": "7334",
+    "label": "Motorcycle, all-terrain vehicle and other related mechanics"
+  },
+  {
+    "value": "7335",
+    "label": "Other small engine and small equipment repairers"
+  },
+  {
+    "value": "7361",
+    "label": "Railway and yard locomotive engineers"
+  },
+  {
+    "value": "7362",
+    "label": "Railway conductors and brakemen/women"
+  },
+  {
+    "value": "7371",
+    "label": "Crane operators"
+  },
+  {
+    "value": "7372",
+    "label": "Drillers and blasters - surface mining, quarrying and construction"
+  },
+  {
+    "value": "7373",
+    "label": "Water well drillers"
+  },
+  {
+    "value": "7381",
+    "label": "Printing press operators"
+  },
+  {
+    "value": "7384",
+    "label": "Other trades and related occupations, n.e.c."
+  },
+  {
+    "value": "7441",
+    "label": "Residential and commercial installers and servicers"
+  },
+  {
+    "value": "7442",
+    "label": "Waterworks and gas maintenance workers"
+  },
+  {
+    "value": "7444",
+    "label": "Pest controllers and fumigators"
+  },
+  {
+    "value": "7445",
+    "label": "Other repairers and servicers"
+  },
+  {
+    "value": "7451",
+    "label": "Longshore workers"
+  },
+  {
+    "value": "7452",
+    "label": "Material handlers"
+  },
+  {
+    "value": "7511",
+    "label": "Transport truck drivers"
+  },
+  {
+    "value": "7512",
+    "label": "Bus drivers, subway operators and other transit operators"
+  },
+  {
+    "value": "7513",
+    "label": "Taxi and limousine drivers and chauffeurs"
+  },
+  {
+    "value": "7514",
+    "label": "Delivery and courier service drivers"
+  },
+  {
+    "value": "7521",
+    "label": "Heavy equipment operators (except crane)"
+  },
+  {
+    "value": "7522",
+    "label": "Public works maintenance equipment operators and related workers"
+  },
+  {
+    "value": "7531",
+    "label": "Railway yard and track maintenance workers"
+  },
+  {
+    "value": "7532",
+    "label": "Water transport deck and engine room crew"
+  },
+  {
+    "value": "7533",
+    "label": "Boat and cable ferry operators and related occupations"
+  },
+  {
+    "value": "7534",
+    "label": "Air transport ramp attendants"
+  },
+  {
+    "value": "7535",
+    "label": "Other automotive mechanical installers and servicers"
+  },
+  {
+    "value": "7611",
+    "label": "Construction trades helpers and labourers"
+  },
+  {
+    "value": "7612",
+    "label": "Other trades helpers and labourers"
+  },
+  {
+    "value": "7621",
+    "label": "Public works and maintenance labourers"
+  },
+  {
+    "value": "7622",
+    "label": "Railway and motor transport labourers"
+  },
+  {
+    "value": "8211",
+    "label": "Supervisors, logging and forestry"
+  },
+  {
+    "value": "8221",
+    "label": "Supervisors, mining and quarrying"
+  },
+  {
+    "value": "8222",
+    "label": "Contractors and supervisors, oil and gas drilling and services"
+  },
+  {
+    "value": "8231",
+    "label": "Underground production and development miners"
+  },
+  {
+    "value": "8232",
+    "label": "Oil and gas well drillers, servicers, testers and related workers"
+  },
+  {
+    "value": "8241",
+    "label": "Logging machinery operators"
+  },
+  {
+    "value": "8252",
+    "label": "Agricultural service contractors, farm supervisors and specialized livestock workers"
+  },
+  {
+    "value": "8255",
+    "label": "Contractors and supervisors, landscaping, grounds maintenance and horticulture services"
+  },
+  {
+    "value": "8261",
+    "label": "Fishing masters and officers"
+  },
+  {
+    "value": "8262",
+    "label": "Fishermen/women"
+  },
+  {
+    "value": "8411",
+    "label": "Underground mine service and support workers"
+  },
+  {
+    "value": "8412",
+    "label": "Oil and gas well drilling and related workers and services operators"
+  },
+  {
+    "value": "8421",
+    "label": "Chain saw and skidder operators"
+  },
+  {
+    "value": "8422",
+    "label": "Silviculture and forestry workers"
+  },
+  {
+    "value": "8431",
+    "label": "General farm workers"
+  },
+  {
+    "value": "8432",
+    "label": "Nursery and greenhouse workers"
+  },
+  {
+    "value": "8441",
+    "label": "Fishing vessel deckhands"
+  },
+  {
+    "value": "8442",
+    "label": "Trappers and hunters"
+  },
+  {
+    "value": "8611",
+    "label": "Harvesting labourers"
+  },
+  {
+    "value": "8612",
+    "label": "Landscaping and grounds maintenance labourers"
+  },
+  {
+    "value": "8613",
+    "label": "Aquaculture and marine harvest labourers"
+  },
+  {
+    "value": "8614",
+    "label": "Mine labourers"
+  },
+  {
+    "value": "8615",
+    "label": "Oil and gas drilling, servicing and related labourers"
+  },
+  {
+    "value": "8616",
+    "label": "Logging and forestry labourers"
+  },
+  {
+    "value": "9211",
+    "label": "Supervisors, mineral and metal processing"
+  },
+  {
+    "value": "9212",
+    "label": "Supervisors, petroleum, gas and chemical processing and utilities"
+  },
+  {
+    "value": "9213",
+    "label": "Supervisors, food and beverage processing"
+  },
+  {
+    "value": "9214",
+    "label": "Supervisors, plastic and rubber products manufacturing"
+  },
+  {
+    "value": "9215",
+    "label": "Supervisors, forest products processing"
+  },
+  {
+    "value": "9217",
+    "label": "Supervisors, textile, fabric, fur and leather products processing and manufacturing"
+  },
+  {
+    "value": "9221",
+    "label": "Supervisors, motor vehicle assembling"
+  },
+  {
+    "value": "9222",
+    "label": "Supervisors, electronics manufacturing"
+  },
+  {
+    "value": "9223",
+    "label": "Supervisors, electrical products manufacturing"
+  },
+  {
+    "value": "9224",
+    "label": "Supervisors, furniture and fixtures manufacturing"
+  },
+  {
+    "value": "9226",
+    "label": "Supervisors, other mechanical and metal products manufacturing"
+  },
+  {
+    "value": "9227",
+    "label": "Supervisors, other products manufacturing and assembly"
+  },
+  {
+    "value": "9231",
+    "label": "Central control and process operators, mineral and metal processing"
+  },
+  {
+    "value": "9232",
+    "label": "Central control and process operators, petroleum, gas and chemical processing"
+  },
+  {
+    "value": "9235",
+    "label": "Pulping, papermaking and coating control operators"
+  },
+  {
+    "value": "9241",
+    "label": "Power engineers and power systems operators"
+  },
+  {
+    "value": "9243",
+    "label": "Water and waste treatment plant operators"
+  },
+  {
+    "value": "9411",
+    "label": "Machine operators, mineral and metal processing"
+  },
+  {
+    "value": "9412",
+    "label": "Foundry workers"
+  },
+  {
+    "value": "9413",
+    "label": "Glass forming and finishing machine operators and glass cutters"
+  },
+  {
+    "value": "9414",
+    "label": "Concrete, clay and stone forming operators"
+  },
+  {
+    "value": "9415",
+    "label": "Inspectors and testers, mineral and metal processing"
+  },
+  {
+    "value": "9416",
+    "label": "Metalworking and forging machine operators"
+  },
+  {
+    "value": "9417",
+    "label": "Machining tool operators"
+  },
+  {
+    "value": "9418",
+    "label": "Other metal products machine operators"
+  },
+  {
+    "value": "9421",
+    "label": "Chemical plant machine operators"
+  },
+  {
+    "value": "9422",
+    "label": "Plastics processing machine operators"
+  },
+  {
+    "value": "9423",
+    "label": "Rubber processing machine operators and related workers"
+  },
+  {
+    "value": "9431",
+    "label": "Sawmill machine operators"
+  },
+  {
+    "value": "9432",
+    "label": "Pulp mill machine operators"
+  },
+  {
+    "value": "9433",
+    "label": "Papermaking and finishing machine operators"
+  },
+  {
+    "value": "9434",
+    "label": "Other wood processing machine operators"
+  },
+  {
+    "value": "9435",
+    "label": "Paper converting machine operators"
+  },
+  {
+    "value": "9436",
+    "label": "Lumber graders and other wood processing inspectors and graders"
+  },
+  {
+    "value": "9437",
+    "label": "Woodworking machine operators"
+  },
+  {
+    "value": "9441",
+    "label": "Textile fibre and yarn, hide and pelt processing machine operators and workers"
+  },
+  {
+    "value": "9442",
+    "label": "Weavers, knitters and other fabric making occupations"
+  },
+  {
+    "value": "9445",
+    "label": "Fabric, fur and leather cutters"
+  },
+  {
+    "value": "9446",
+    "label": "Industrial sewing machine operators"
+  },
+  {
+    "value": "9447",
+    "label": "Inspectors and graders, textile, fabric, fur and leather products manufacturing"
+  },
+  {
+    "value": "9461",
+    "label": "Process control and machine operators, food and beverage processing"
+  },
+  {
+    "value": "9462",
+    "label": "Industrial butchers and meat cutters, poultry preparers and related workers"
+  },
+  {
+    "value": "9463",
+    "label": "Fish and seafood plant workers"
+  },
+  {
+    "value": "9465",
+    "label": "Testers and graders, food and beverage processing"
+  },
+  {
+    "value": "9471",
+    "label": "Plateless printing equipment operators"
+  },
+  {
+    "value": "9472",
+    "label": "Camera, platemaking and other prepress occupations"
+  },
+  {
+    "value": "9473",
+    "label": "Binding and finishing machine operators"
+  },
+  {
+    "value": "9474",
+    "label": "Photographic and film processors"
+  },
+  {
+    "value": "9521",
+    "label": "Aircraft assemblers and aircraft assembly inspectors"
+  },
+  {
+    "value": "9522",
+    "label": "Motor vehicle assemblers, inspectors and testers"
+  },
+  {
+    "value": "9523",
+    "label": "Electronics assemblers, fabricators, inspectors and testers"
+  },
+  {
+    "value": "9524",
+    "label": "Assemblers and inspectors, electrical appliance, apparatus and equipment manufacturing"
+  },
+  {
+    "value": "9525",
+    "label": "Assemblers, fabricators and inspectors, industrial electrical motors and transformers"
+  },
+  {
+    "value": "9526",
+    "label": "Mechanical assemblers and inspectors"
+  },
+  {
+    "value": "9527",
+    "label": "Machine operators and inspectors, electrical apparatus manufacturing"
+  },
+  {
+    "value": "9531",
+    "label": "Boat assemblers and inspectors"
+  },
+  {
+    "value": "9532",
+    "label": "Furniture and fixture assemblers and inspectors"
+  },
+  {
+    "value": "9533",
+    "label": "Other wood products assemblers and inspectors"
+  },
+  {
+    "value": "9534",
+    "label": "Furniture finishers and refinishers"
+  },
+  {
+    "value": "9535",
+    "label": "Plastic products assemblers, finishers and inspectors"
+  },
+  {
+    "value": "9536",
+    "label": "Industrial painters, coaters and metal finishing process operators"
+  },
+  {
+    "value": "9537",
+    "label": "Other products assemblers, finishers and inspectors"
+  },
+  {
+    "value": "9611",
+    "label": "Labourers in mineral and metal processing"
+  },
+  {
+    "value": "9612",
+    "label": "Labourers in metal fabrication"
+  },
+  {
+    "value": "9613",
+    "label": "Labourers in chemical products processing and utilities"
+  },
+  {
+    "value": "9614",
+    "label": "Labourers in wood, pulp and paper processing"
+  },
+  {
+    "value": "9615",
+    "label": "Labourers in rubber and plastic products manufacturing"
+  },
+  {
+    "value": "9616",
+    "label": "Labourers in textile processing"
+  },
+  {
+    "value": "9617",
+    "label": "Labourers in food and beverage processing"
+  },
+  {
+    "value": "9618",
+    "label": "Labourers in fish and seafood processing"
+  },
+  {
+    "value": "9619",
+    "label": "Other labourers in processing, manufacturing and utilities"
+  }
+]
