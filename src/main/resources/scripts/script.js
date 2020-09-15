@@ -4,8 +4,10 @@
 $(document).ready( function(){
 	$('#nocInput').flexdatalist({
 		selectionRequired: 1,
+		limitOfValues: 5,
+		data: '../json/nocOptions.json',
 		valueProperty: 'value',
-		textProperty: '{value}, {label}',
+		textProperty: '{value}',
 		visibleProperties: ["value","label"],
 		searchIn: 'value',
 		minLength: 1
@@ -13,16 +15,14 @@ $(document).ready( function(){
 		
 	$('#provinceInput').flexdatalist({
 		selectionRequired: 1,
+		limitOfValues: 3,
+		data: '../json/provinces.json',
 		valueProperty: '{value}',
 		textProperty: '{value}, {label}',
 		visibleProperties: ["value","label"],
 		searchIn: 'value',
 		minLength: 1
 		});
-		
-	$('#searchFormId').on('dblclick', function(){
-		$('li.input-container.flexdatalist-multiple-value').fadeOut();
-	});
 	
 	$('#searchFormId').on('submit', function(event){
 		event.preventDefault();		
